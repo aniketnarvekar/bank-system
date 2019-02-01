@@ -1,7 +1,7 @@
 # bms
 ### _Aniket Narvekar_
 
-This is a project to do ... something.
+This project is create command based bank system. 
 
 ## License
 
